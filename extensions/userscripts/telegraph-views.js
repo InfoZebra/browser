@@ -3,7 +3,7 @@
 // @namespace    https://open.lbry.com/@InfoZebra:1?r=7YcRBCZ7iR8tbx7H4uu3TJqP1Gc3qoEK
 // @version      0.2
 // @description  Show amount of views on Telegraph pages
-// @author       gcontent
+// @author       InfoZebra
 // @match        https://*.telegra.ph/*
 // @grant        none
 // ==/UserScript==
